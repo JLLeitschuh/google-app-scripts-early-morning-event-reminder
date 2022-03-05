@@ -1,4 +1,4 @@
-# google-app-scripts-early-morning-notify
+# Google App Scripts Early Morning Event Reminder
 
 A Google App Script that adds notification reminders for the previous day when you have early events.
 
